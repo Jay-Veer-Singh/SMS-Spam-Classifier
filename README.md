@@ -1,9 +1,9 @@
-# SMS-Spam-Classifier
+# SMS Spam Detection Using NLP and Machine Learning
 
-## Project Summary: SMS Spam Classifier
+## Project Summary: SMS Spam Detection Using NLP and Machine Learning
 Objective: Build a machine learning model that classifies SMS messages as "spam" or "ham" (not spam).
 
-Dataset Used: SMS spam collection dataset (likely from UCI repository).
+Dataset Used: SMS spam collection dataset
 
 Total messages: Around 5,572 messages.
 
